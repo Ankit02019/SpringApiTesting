@@ -1,0 +1,3 @@
+com\spring\data\jpa\Entity\Product.class
+com\spring\data\jpa\SpringDataApplication.class
+com\spring\data\jpa\repo\ProductRepo.class
